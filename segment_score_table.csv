@@ -1,0 +1,129 @@
+﻿Scores,Segment,Index
+111,Lost customers,11
+112,Lost customers,11
+113,Cannot Lose Them,9
+114,Cannot Lose Them,9
+115,Cannot Lose Them,9
+121,Lost customers,11
+122,Hibernating customers,10
+123,Hibernating customers,10
+124,At Risk,8
+125,At Risk,8
+131,Lost customers,11
+132,Hibernating customers,10
+133,At Risk,8
+134,At Risk,8
+135,At Risk,8
+141,Lost customers,11
+142,At Risk,8
+143,At Risk,8
+144,Cannot Lose Them,9
+145,At Risk,8
+151,Lost customers,11
+152,At Risk,8
+153,At Risk,8
+154,Cannot Lose Them,9
+155,Cannot Lose Them,9
+211,Hibernating customers,10
+212,Hibernating customers,10
+213,About To Sleep,7
+214,Cannot Lose Them,9
+215,Cannot Lose Them,9
+221,About To Sleep,7
+222,Hibernating customers,10
+223,Hibernating customers,10
+224,At Risk,8
+225,At Risk,8
+231,About To Sleep,7
+231,Hibernating customers,10
+232,Hibernating customers,10
+233,Hibernating customers,10
+234,At Risk,8
+235,At Risk,8
+241,About To Sleep,7
+241,Hibernating customers,10
+242,At Risk,8
+243,At Risk,8
+244,At Risk,8
+245,At Risk,8
+251,About To Sleep,7
+251,Hibernating customers,10
+252,At Risk,8
+253,At Risk,8
+254,At Risk,8
+255,At Risk,8
+311,New Customers,4
+312,About To Sleep,7
+313,Promising,5
+314,Promising,5
+315,Promising,5
+321,About To Sleep,7
+322,Hibernating customers,10
+323,Potential Loyalist,3
+324,Need Attention,6
+325,Need Attention,6
+331,About To Sleep,7
+332,Hibernating customers,10
+333,Potential Loyalist,3
+334,Need Attention,6
+335,Loyal,2
+341,Potential Loyalist,3
+342,Potential Loyalist,3
+343,Need Attention,6
+344,Loyal,2
+345,Loyal,2
+351,Potential Loyalist,3
+352,Potential Loyalist,3
+353,Potential Loyalist,3
+354,Loyal,2
+355,Loyal,2
+411,New Customers,4
+412,New Customers,4
+413,Promising,5
+414,Promising,5
+415,Promising,5
+421,New Customers,4
+422,New Customers,4
+423,Potential Loyalist,3
+424,Promising,5
+425,Promising,5
+431,Potential Loyalist,3
+432,Potential Loyalist,3
+433,Potential Loyalist,3
+434,Need Attention,6
+435,Loyal,2
+441,Potential Loyalist,3
+442,Potential Loyalist,3
+443,Need Attention,6
+444,Loyal,2
+445,Champions,1
+451,Potential Loyalist,3
+452,Potential Loyalist,3
+453,Potential Loyalist,3
+454,Champions,1
+455,Champions,1
+511,New Customers,4
+512,New Customers,4
+513,Promising,5
+514,Promising,5
+515,Promising,5
+521,Promising,5
+522,Promising,5
+523,Promising,5
+524,Promising,5
+525,Promising,5
+531,Potential Loyalist,3
+532,Potential Loyalist,3
+533,Potential Loyalist,3
+534,Need Attention,6
+535,Need Attention,6
+541,Potential Loyalist,3
+542,Potential Loyalist,3
+543,Loyal,2
+544,Champions,1
+545,Champions,1
+551,Potential Loyalist,3
+552,Potential Loyalist,3
+553,Potential Loyalist,3
+554,Champions,1
+555,Champions,1
