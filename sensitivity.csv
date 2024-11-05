@@ -1,0 +1,2 @@
+﻿TestVar,Change,BaseSales,Year_Birth,Income,DaysSinceLastPurch,NumDealsPurchases,NumWebPurchases,NumCatalogPurchases,NumStorePurchases,NumWebVisitsMonth,
+Base,0,569.8625,1968.805804,52247.25135,49.109375,2.325,4.084821429,2.662053571,5.790178571,5.316517857,<--These are all the averages of each column. 
